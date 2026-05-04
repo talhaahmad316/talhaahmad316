@@ -10,6 +10,20 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="480" alt="Coding GIF"/>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Habib277672">
+    <img src="https://komarev.com/ghpvc/?username=talhaahmad316&label=Profile+Views&color=a855f7&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Habib277672?tab=followers">
+    <img src="https://img.shields.io/github/followers/talhaahmad316?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Habib277672?tab=stars">
+    <img src="https://img.shields.io/github/stars/talhaahmad316?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
+  </a>
+</div>
+
 # 💫 About Me:
 👋 Hello there! I'm Talha, a passionate PHP Laravel developer with a knack for crafting robust and efficient web solutions. My journey in the world of web development has equipped me with proficient skills in HTML, Bootstrap, CSS, and JavaScript, enabling me to create engaging and responsive user interfaces.<br><br>🚀 I specialize in backend development using Laravel, harnessing its powerful features to build scalable and maintainable applications. My SQL skills come into play when designing and optimizing databases to ensure seamless data management.<br><br>💻 On the frontend, I thrive in the realm of web development, where I bring designs to life with a keen eye for detail and a commitment to creating a smooth user experience. Whether it's crafting clean and semantic HTML or styling with the latest CSS techniques, I enjoy the process of turning ideas into visually appealing and functional websites.<br><br>🌐 I'm always eager to stay up-to-date with the latest technologies and industry trends, as I believe continuous learning is key to staying at the forefront of web development. Collaboration and problem-solving are my strengths, and I take pride in delivering high-quality solutions that meet both user needs and business objectives.<br><br>Let's code something amazing together! 💻✨
 
