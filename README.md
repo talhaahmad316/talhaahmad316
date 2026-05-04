@@ -26,9 +26,16 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<!--About Me Section-->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+  &nbsp;╔═══ About Me ═══╗&nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/>
+</h2>
+
+<br/>
 
 
-# 💫 About Me:
 👋 Hello there! I'm Talha, a passionate PHP Laravel developer with a knack for crafting robust and efficient web solutions. My journey in the world of web development has equipped me with proficient skills in HTML, Bootstrap, CSS, and JavaScript, enabling me to create engaging and responsive user interfaces.<br><br>🚀 I specialize in backend development using Laravel, harnessing its powerful features to build scalable and maintainable applications. My SQL skills come into play when designing and optimizing databases to ensure seamless data management.<br><br>💻 On the frontend, I thrive in the realm of web development, where I bring designs to life with a keen eye for detail and a commitment to creating a smooth user experience. Whether it's crafting clean and semantic HTML or styling with the latest CSS techniques, I enjoy the process of turning ideas into visually appealing and functional websites.<br><br>🌐 I'm always eager to stay up-to-date with the latest technologies and industry trends, as I believe continuous learning is key to staying at the forefront of web development. Collaboration and problem-solving are my strengths, and I take pride in delivering high-quality solutions that meet both user needs and business objectives.<br><br>Let's code something amazing together! 💻✨
 
 
