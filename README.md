@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Talha%20Ahmad&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20React%20JS&descAlignY=58&descSize=18&descColor=c4b5fd)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Talha%20Ahmad&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Full Stack%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20React%20JS&descAlignY=58&descSize=18&descColor=c4b5fd)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,15 +11,15 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Habib277672">
+  <a href="https://github.com/talhaahmad316">
     <img src="https://komarev.com/ghpvc/?username=talhaahmad316&label=Profile+Views&color=a855f7&style=for-the-badge&logo=eye" alt="Profile Views"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Habib277672?tab=followers">
+  <a href="https://github.com/talhaahmad316?tab=followers">
     <img src="https://img.shields.io/github/followers/talhaahmad316?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=Followers&logo=github" alt="Followers"/>
   </a>
   &nbsp;
-  <a href="https://github.com/Habib277672?tab=stars">
+  <a href="https://github.com/talhaahmad316?tab=stars">
     <img src="https://img.shields.io/github/stars/talhaahmad316?style=for-the-badge&color=a855f7&labelColor=1a1a2e&label=Stars&logo=github" alt="Stars"/>
   </a>
 </div>
@@ -44,9 +44,9 @@
 ┌─────────────────────────────────────────┐
 │      Talha Ahmad      •  DEV            │
 ├─────────────────────────────────────────┤
-│  Role    : Backend Developer            │
+│  Role    : Full Stack Developer         │
 │  Focus   : Web Apps & UI/UX             │
-│  Status  : Open to Opportunities 🟢    |
+│  Status  : Open to Opportunities  🟢    |
 │  Passion : Code · Design · Ship         │
 └─────────────────────────────────────────┘
 ```
