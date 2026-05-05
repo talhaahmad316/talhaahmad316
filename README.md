@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Talha%20Ahmad&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Full Stack%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20React%20JS&descAlignY=58&descSize=18&descColor=c4b5fd)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1a2e,60:2d1b69,100:7c3aed&height=200&section=header&text=Talha%20Ahmad&fontSize=65&fontColor=a855f7&animation=fadeIn&fontAlignY=38&desc=Full%Stack%20Developer%20%7C%20PHP%20%7C%20Laravel%20%7C%20React%20JS&descAlignY=58&descSize=18&descColor=c4b5fd)
 
 <div align="center">
   <a href="https://git.io/typing-svg">
